@@ -1,0 +1,19 @@
+C:\Users\Tenata\source\repos\CLONE DE FLAPBIRD\CLONE DE FLAPBIRD\bin\Debug\net6.0-windows\CLONE DE FLAPBIRD.exe
+C:\Users\Tenata\source\repos\CLONE DE FLAPBIRD\CLONE DE FLAPBIRD\bin\Debug\net6.0-windows\CLONE DE FLAPBIRD.deps.json
+C:\Users\Tenata\source\repos\CLONE DE FLAPBIRD\CLONE DE FLAPBIRD\bin\Debug\net6.0-windows\CLONE DE FLAPBIRD.runtimeconfig.json
+C:\Users\Tenata\source\repos\CLONE DE FLAPBIRD\CLONE DE FLAPBIRD\bin\Debug\net6.0-windows\CLONE DE FLAPBIRD.dll
+C:\Users\Tenata\source\repos\CLONE DE FLAPBIRD\CLONE DE FLAPBIRD\bin\Debug\net6.0-windows\CLONE DE FLAPBIRD.pdb
+C:\Users\Tenata\source\repos\CLONE DE FLAPBIRD\CLONE DE FLAPBIRD\obj\Debug\net6.0-windows\CLONE DE FLAPBIRD.vbproj.AssemblyReference.cache
+C:\Users\Tenata\source\repos\CLONE DE FLAPBIRD\CLONE DE FLAPBIRD\obj\Debug\net6.0-windows\CLONE_DE_FLAPBIRD.Form1.resources
+C:\Users\Tenata\source\repos\CLONE DE FLAPBIRD\CLONE DE FLAPBIRD\obj\Debug\net6.0-windows\CLONE DE FLAPBIRD.vbproj.GenerateResource.cache
+C:\Users\Tenata\source\repos\CLONE DE FLAPBIRD\CLONE DE FLAPBIRD\obj\Debug\net6.0-windows\CLONE DE FLAPBIRD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tenata\source\repos\CLONE DE FLAPBIRD\CLONE DE FLAPBIRD\obj\Debug\net6.0-windows\CLONE DE FLAPBIRD.AssemblyInfoInputs.cache
+C:\Users\Tenata\source\repos\CLONE DE FLAPBIRD\CLONE DE FLAPBIRD\obj\Debug\net6.0-windows\CLONE DE FLAPBIRD.AssemblyInfo.vb
+C:\Users\Tenata\source\repos\CLONE DE FLAPBIRD\CLONE DE FLAPBIRD\obj\Debug\net6.0-windows\CLONE DE FLAPBIRD.vbproj.CoreCompileInputs.cache
+C:\Users\Tenata\source\repos\CLONE DE FLAPBIRD\CLONE DE FLAPBIRD\obj\Debug\net6.0-windows\CLONE DE FLAPBIRD.dll
+C:\Users\Tenata\source\repos\CLONE DE FLAPBIRD\CLONE DE FLAPBIRD\obj\Debug\net6.0-windows\refint\CLONE DE FLAPBIRD.dll
+C:\Users\Tenata\source\repos\CLONE DE FLAPBIRD\CLONE DE FLAPBIRD\obj\Debug\net6.0-windows\CLONE DE FLAPBIRD.pdb
+C:\Users\Tenata\source\repos\CLONE DE FLAPBIRD\CLONE DE FLAPBIRD\obj\Debug\net6.0-windows\CLONE DE FLAPBIRD.genruntimeconfig.cache
+C:\Users\Tenata\source\repos\CLONE DE FLAPBIRD\CLONE DE FLAPBIRD\obj\Debug\net6.0-windows\ref\CLONE DE FLAPBIRD.dll
+C:\Users\Tenata\source\repos\CLONE DE FLAPBIRD\CLONE DE FLAPBIRD\obj\Debug\net6.0-windows\CLONE_DE_FLAPBIRD.Resources.resources
+C:\Users\Tenata\source\repos\CLONE DE FLAPBIRD\CLONE DE FLAPBIRD\obj\Debug\net6.0-windows\CLONE_DE_FLAPBIRD.fundo.resources
